@@ -1,0 +1,3 @@
+1. Add meta TAG <meta Description> to increase SEO score
+2. Add aria-label="YOUR TEXT" in input box to increase Accessibility
+3. font-display: swap; increase accessibility font
